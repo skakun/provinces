@@ -1,0 +1,4 @@
+enum GoodType
+{
+	WHEAT
+}
